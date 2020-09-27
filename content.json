@@ -1,1 +1,12 @@
-{}
+{
+  "custom-field": "This example text is used as a description.",
+  "custom-object": {
+    "custom-line": "Custom-line in {} Custom-object",
+    "custom-text": ":: Custom-text"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "[] Custom-list Add item (1 items) {} Item #1  :: Custom-list-item"
+    }
+  ]
+}
